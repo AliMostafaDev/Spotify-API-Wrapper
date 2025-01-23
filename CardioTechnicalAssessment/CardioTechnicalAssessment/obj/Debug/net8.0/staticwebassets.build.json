@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "mneVoC76VZpcEQ6D1oRCgRQwZViBG10HJ0lvwC4KpTU=",
+  "Source": "SpotifyApiWrapper",
+  "BasePath": "_content/SpotifyApiWrapper",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
